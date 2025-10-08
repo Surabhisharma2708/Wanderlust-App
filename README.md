@@ -1,40 +1,34 @@
 Wanderlust is a travel platform that allows users to explore and share their favourite destinations. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and incorporates various technologies for features like image upload, user authentication, and interactive maps.
 
-Live Project
-Check out the live project: Wanderlust Live
-
 Technologies Used
-Node.js
-Express.js
-MongoDB
-MERN Stack (MongoDB, Express.js, React.js, Node.js)
-Multer for image upload
-Cloudinary for image storage
-Passport.js for authentication
-Bootstrap for a sleek and responsive design
-Mapbox for interactive maps
+1.Node.js
+2.Express.js
+3.MongoDB
+4.MERN Stack (MongoDB, Express.js, React.js, Node.js)
+5.Multer for image upload
+6.Cloudinary for image storage
+7.Passport.js for authentication
+8.Bootstrap for a sleek and responsive design
+9.Mapbox for interactive maps
 Error handling for a seamless user experience
 Other awesome libraries and tools!
-Key Features
-Listings: Create, edit, and delete your listings.
-Reviews: Leave reviews for your favourite destinations.
-Search and Filter: Easily find listings based on your preferences.
-User Authentication: Secure sign-up, login, and logout functionality.
+
+
 Getting Started
 To run this project locally, follow these steps:
 
-Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/your-username/Wanderlust.git
 Install dependencies:
 
-cd Wanderlust
+2.cd Wanderlust
 npm install
 Configure environment variables:
 
-Create a .env file in the root directory. Add your MongoDB connection string, Cloudinary credentials, Mapbox token, and other necessary variables.
+3.Create a .env file in the root directory. Add your MongoDB connection string, Cloudinary credentials, Mapbox token, and other necessary variables.
 
-Run the application:
+4.Run the application:
 
 npm start
 Visit http://localhost:3000 in your browser to explore Wanderlust locally.
